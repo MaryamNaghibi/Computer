@@ -1,4 +1,4 @@
-public class Camputer
+public class Camputer //hihi
 {
     private String hersteller; //lenovo
     private String modell;  //L-14
